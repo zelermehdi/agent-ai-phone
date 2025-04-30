@@ -29,5 +29,5 @@ Il transcrit un fichier audio (simulant un appel téléphonique) et analyse la d
 git clone https://github.com/zelermehdi/agent-ai-phone.git
 cd agent-ai-phone
 python -m venv venv
-venv\Scripts\activate         # sous Windows
+venv\Scripts\activate        
 pip install -r requirements.txt
